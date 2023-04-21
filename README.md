@@ -2,7 +2,7 @@
 
 Bu repo Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](figures/github.png)
+![github](https://cdn-icons-png.flaticon.com/512/25/25231.png)
 
 ## Installation
 
